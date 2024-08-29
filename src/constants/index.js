@@ -12,7 +12,7 @@ function Resume() {
 export default Resume;
 
 
-export const HERO_CONTENT = `I am Computer Engineering graduate eager to leverage my programming expertise and technical skills in the Information Technology sector. My portfolio showcases my dedication to delivering high-quality solutions, effective communication, and teamwork. I stay updated with industry trends, positioning myself to drive innovation and contribute to an organization's success.`;
+export const HERO_CONTENT = `I am Computer Engineering graduate, eager to leverage my programming expertise and technical skills in the Information Technology sector. My portfolio showcases my dedication to delivering high-quality solutions, effective communication, and teamwork. I stay updated with industry trends, positioning myself to drive innovation and contribute to an organization's success.`;
 
 export const PROJECTS = [
   {
