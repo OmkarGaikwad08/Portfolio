@@ -43,7 +43,7 @@ const Projects = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <h6 className="mb-2 font-semibold hover:text-cyan-800 duration-500 cursor-pointer hover:underline">
+                <h6 className="mb-2 font-semibold hover:text-cyan-700 duration-500 cursor-pointer hover:underline">
                   {project.title}
                 </h6>
               </a>
