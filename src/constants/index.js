@@ -16,27 +16,31 @@ export const HERO_CONTENT = `I am Computer Engineering graduate eager to leverag
 
 export const PROJECTS = [
   {
+    githubLink: "https://github.com/OmkarGaikwad08/Dall-E_Clone.git",
     title: "Dall-E Clone",
     image: project1,
     description:
-      "An AI image generation application which can create AI generated images inspired by DALL-E, utilizing Cloudinary for streamlined image handling.",
+    "An AI image generation application which can create AI generated images inspired by DALL-E, utilizing Cloudinary for streamlined image handling.",
     technologies: ["JS","OpenAI", "Vite", "React", "CSS", "MongoDB"],
   },
   {
+    githubLink: "https://github.com/OmkarGaikwad08/AgroGenius.git",
     title: "AgroGenius",
     image: project2,
     description:
-      "Intelligent Crop Recommendation system using weather data from Open Weather and soil fertility to assist farmers in selecting the best crops.",
+    "Intelligent Crop Recommendation system using weather data from Open Weather and soil fertility to assist farmers in selecting the best crops.",
     technologies: ["Python", "ML", "React", "HTML", "CSS"],
   },
   {
+    githubLink: "https://github.com/OmkarGaikwad08/Portfolio.git",
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+    "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
   {
+    githubLink: "https://github.com/OmkarGaikwad08/IoT-tracking-Device.git",
     title: "IoT Tracking Device",
     image: project4,
     description:
