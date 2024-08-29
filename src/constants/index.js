@@ -21,7 +21,7 @@ export const PROJECTS = [
     image: project1,
     description:
     "An AI image generation application which can create AI generated images inspired by DALL-E, utilizing Cloudinary for streamlined image handling.",
-    technologies: ["JS","OpenAI", "Vite", "React", "CSS", "MongoDB"],
+    technologies: ["JS","OpenAI", "Vite", "React", "MongoDB"],
   },
   {
     githubLink: "https://github.com/OmkarGaikwad08/AgroGenius.git",

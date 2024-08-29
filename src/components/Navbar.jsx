@@ -6,13 +6,13 @@ import { AiOutlineMail } from "@react-icons/all-files/ai/AiOutlineMail";
 
 const Navbar = () => {
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 flex items-center justify-between py-2 bg-zinc-900 bg-opacity-85 shadow-lg rounded">
-      <div className="flex items-center ml-4 pl-9">
+    <nav className="fixed top-0 left-0 right-0 w-full z-50 flex items-center justify-between py-2 bg-zinc-900 bg-opacity-85 shadow-lg rounded px-4 overflow-hidden">
+      <div className="flex items-center">
         <a href="#top">
-          <img className="w-10 pt-2" src={logo} alt="logo" />
+          <img className="w-8 sm:w-10 pt-2" src={logo} alt="logo" />
         </a>
       </div>
-      <div className="flex items-center justify-center gap-4 mr-4 text-xl pr-8">
+      <div className="flex items-center justify-center gap-2 sm:gap-4 mr-2 text-lg sm:text-xl flex-wrap">
         <a
           href="https://www.linkedin.com/in/omkar-gaikwad-658a52205/"
           target="_blank"
