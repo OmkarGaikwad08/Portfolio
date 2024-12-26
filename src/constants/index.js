@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 function Resume() {
   window.open(
-    "https://drive.google.com/file/d/1zuO4j0vVGUP95Iy9vj9EU1sHuUPNND_o/view?usp=sharing",
+    "https://drive.google.com/file/d/1ftQdkBSBjoNXUoNh0n6OkWHjem5m8eFW/view?usp=drive_link",
     "_blank"
   );
 }
